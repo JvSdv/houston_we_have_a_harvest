@@ -1,0 +1,687 @@
+{
+ "meta": {
+  "ibge": "IBGE SIDRA · Pesquisa Agrícola Municipal, tabela 839, Milho (em grão) 2ª safra",
+  "baixadoEm": "2026-11-15T01:59:03.789Z",
+  "minAreaHa": 500,
+  "dataPrincipal": "10-20",
+  "anosPorMunicipio": {
+   "pato-branco": 11,
+   "cascavel": 23,
+   "francisco-beltrao": 23
+  }
+ },
+ "porData": {
+  "09-20": {
+   "geada": {
+    "d": 0.07470599685306006,
+    "nMarc": 6,
+    "nNao": 51,
+    "mMarc": 0.06546398279895838,
+    "mNao": -0.009242014054101695,
+    "p": 0.47435256474352566
+   },
+   "seca": {
+    "d": -0.010754413026425182,
+    "nMarc": 24,
+    "nNao": 33,
+    "mMarc": -0.0076044640322362736,
+    "mNao": 0.0031499489941889092,
+    "p": 0.8645135486451355
+   },
+   "qualquer": {
+    "d": 0.015348223963733964,
+    "nMarc": 29,
+    "nNao": 28,
+    "mMarc": 0.006161253526651129,
+    "mNao": -0.009186970437082834,
+    "p": 0.8075192480751925
+   }
+  },
+  "10-01": {
+   "geada": {
+    "d": 0.11339109290326231,
+    "nMarc": 8,
+    "nNao": 49,
+    "mMarc": 0.09609832863674415,
+    "mNao": -0.017292764266518157,
+    "p": 0.22617738226177383
+   },
+   "seca": {
+    "d": -0.060100769202718556,
+    "nMarc": 21,
+    "nNao": 36,
+    "mMarc": -0.039336605460759726,
+    "mNao": 0.02076416374195883,
+    "p": 0.3564643535646435
+   },
+   "qualquer": {
+    "d": -0.03034234310393858,
+    "nMarc": 26,
+    "nNao": 31,
+    "mMarc": -0.01788020098574618,
+    "mNao": 0.0124621421181924,
+    "p": 0.6368363163683631
+   }
+  },
+  "10-10": {
+   "geada": {
+    "d": 0.025427300396811976,
+    "nMarc": 9,
+    "nNao": 48,
+    "mMarc": 0.020034238580377867,
+    "mNao": -0.00539306181643411,
+    "p": 0.7792220777922207
+   },
+   "seca": {
+    "d": 0.002827552008123189,
+    "nMarc": 25,
+    "nNao": 32,
+    "mMarc": 0.00020917270692114742,
+    "mNao": -0.0026183793012020413,
+    "p": 0.9645035496450355
+   },
+   "qualquer": {
+    "d": -0.01268290330605058,
+    "nMarc": 31,
+    "nNao": 26,
+    "mMarc": -0.0071634088758377465,
+    "mNao": 0.005519494430212832,
+    "p": 0.8317168283171683
+   }
+  },
+  "10-20": {
+   "geada": {
+    "d": 0.015184329498557886,
+    "nMarc": 15,
+    "nNao": 42,
+    "mMarc": 0.00981022840305254,
+    "mNao": -0.005374101095505346,
+    "p": 0.837016298370163
+   },
+   "seca": {
+    "d": -0.0005612489205212682,
+    "nMarc": 26,
+    "nNao": 31,
+    "mMarc": -0.0016834655526595762,
+    "mNao": -0.001122216632138308,
+    "p": 0.9924007599240076
+   },
+   "qualquer": {
+    "d": 0.016692384669134135,
+    "nMarc": 35,
+    "nNao": 22,
+    "mMarc": 0.005064449872903763,
+    "mNao": -0.011627934796230371,
+    "p": 0.787921207879212
+   }
+  },
+  "10-30": {
+   "geada": {
+    "d": -0.009969869370852778,
+    "nMarc": 25,
+    "nNao": 32,
+    "mMarc": -0.006975344558468864,
+    "mNao": 0.002994524812383914,
+    "p": 0.8704129587041296
+   },
+   "seca": {
+    "d": 0.012440340949771492,
+    "nMarc": 26,
+    "nNao": 31,
+    "mMarc": 0.005387574552236487,
+    "mNao": -0.007052766397535004,
+    "p": 0.8461153884611539
+   },
+   "qualquer": {
+    "d": -0.034797386893053825,
+    "nMarc": 47,
+    "nNao": 10,
+    "mMarc": -0.007483029629753942,
+    "mNao": 0.027314357263299883,
+    "p": 0.6377362263773623
+   }
+  },
+  "11-10": {
+   "geada": {
+    "d": -0.030830015979278397,
+    "nMarc": 29,
+    "nNao": 28,
+    "mMarc": -0.016522794164653184,
+    "mNao": 0.014307221814625213,
+    "p": 0.6053394660533946
+   },
+   "seca": {
+    "d": 0.03982350225789391,
+    "nMarc": 30,
+    "nNao": 27,
+    "mMarc": 0.017485539315749105,
+    "mNao": -0.022337962942144806,
+    "p": 0.5318468153184681
+   },
+   "qualquer": {
+    "d": -0.15347250868092957,
+    "nMarc": 50,
+    "nNao": 7,
+    "mMarc": -0.020225725977753396,
+    "mNao": 0.13324678270317616,
+    "p": 0.04459554044595541
+   }
+  },
+  "11-20": {
+   "geada": {
+    "d": -0.07018401383906112,
+    "nMarc": 38,
+    "nNao": 19,
+    "mMarc": -0.02477289619136136,
+    "mNao": 0.04541111764769975,
+    "p": 0.2715728427157284
+   },
+   "seca": {
+    "d": 0.043645959435181805,
+    "nMarc": 28,
+    "nNao": 29,
+    "mMarc": 0.020827614099207643,
+    "mNao": -0.02281834533597416,
+    "p": 0.49195080491950804
+   },
+   "qualquer": {
+    "d": -0.12665132476982938,
+    "nMarc": 51,
+    "nNao": 6,
+    "mMarc": -0.014709943308498476,
+    "mNao": 0.11194138146133091,
+    "p": 0.12918708129187081
+   }
+  },
+  "11-30": {
+   "geada": {
+    "d": 0.001293561297371769,
+    "nMarc": 47,
+    "nNao": 10,
+    "mMarc": -0.0011512843331880516,
+    "mNao": -0.0024448456305598207,
+    "p": 0.988001199880012
+   },
+   "seca": {
+    "d": 0.09275395871613727,
+    "nMarc": 35,
+    "nNao": 22,
+    "mMarc": 0.034421548627887426,
+    "mNao": -0.058332410088249846,
+    "p": 0.147985201479852
+   },
+   "qualquer": {
+    "d": -0.0253983508287226,
+    "nMarc": 54,
+    "nNao": 3,
+    "mMarc": -0.0027149802184492024,
+    "mNao": 0.0226833706102734,
+    "p": 0.8297170282971703
+   }
+  }
+ },
+ "anosPrincipal": {
+  "pato-branco": [
+   {
+    "ano": 2015,
+    "rendimento": 7400,
+    "areaHa": 1000,
+    "anomalia": 21,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2016,
+    "rendimento": 6200,
+    "areaHa": 3500,
+    "anomalia": 1.9,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2017,
+    "rendimento": 6000,
+    "areaHa": 6000,
+    "anomalia": -1,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2018,
+    "rendimento": 5700,
+    "areaHa": 3000,
+    "anomalia": -5.5,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2019,
+    "rendimento": 6000,
+    "areaHa": 10100,
+    "anomalia": -0.1,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2020,
+    "rendimento": 7000,
+    "areaHa": 12000,
+    "anomalia": 17,
+    "geada": true,
+    "seca": true
+   },
+   {
+    "ano": 2021,
+    "rendimento": 2396,
+    "areaHa": 12000,
+    "anomalia": -59.8,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2022,
+    "rendimento": 6000,
+    "areaHa": 14600,
+    "anomalia": 1.2,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2023,
+    "rendimento": 5200,
+    "areaHa": 6000,
+    "anomalia": -11.9,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2024,
+    "rendimento": 5200,
+    "areaHa": 6000,
+    "anomalia": -11.5,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2025,
+    "rendimento": 8700,
+    "areaHa": 8000,
+    "anomalia": 48.7,
+    "geada": false,
+    "seca": true
+   }
+  ],
+  "cascavel": [
+   {
+    "ano": 2003,
+    "rendimento": 4500,
+    "areaHa": 15000,
+    "anomalia": 20.4,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2004,
+    "rendimento": 2500,
+    "areaHa": 6250,
+    "anomalia": -34.8,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2005,
+    "rendimento": 3000,
+    "areaHa": 5500,
+    "anomalia": -23.7,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2006,
+    "rendimento": 4400,
+    "areaHa": 8500,
+    "anomalia": 9.3,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2007,
+    "rendimento": 3719,
+    "areaHa": 12250,
+    "anomalia": -9.8,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2008,
+    "rendimento": 3500,
+    "areaHa": 13000,
+    "anomalia": -17,
+    "geada": true,
+    "seca": true
+   },
+   {
+    "ano": 2009,
+    "rendimento": 3600,
+    "areaHa": 14800,
+    "anomalia": -16.6,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2010,
+    "rendimento": 5381,
+    "areaHa": 13500,
+    "anomalia": 22,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2011,
+    "rendimento": 3989,
+    "areaHa": 16500,
+    "anomalia": -11.5,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2012,
+    "rendimento": 4840,
+    "areaHa": 27000,
+    "anomalia": 5.1,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2013,
+    "rendimento": 5000,
+    "areaHa": 70000,
+    "anomalia": 6.4,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2014,
+    "rendimento": 6050,
+    "areaHa": 50500,
+    "anomalia": 26.1,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2015,
+    "rendimento": 6080,
+    "areaHa": 50250,
+    "anomalia": 24.2,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2016,
+    "rendimento": 7066,
+    "areaHa": 53000,
+    "anomalia": 41.6,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2017,
+    "rendimento": 6000,
+    "areaHa": 51800,
+    "anomalia": 18,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2018,
+    "rendimento": 4580,
+    "areaHa": 26830,
+    "anomalia": -11.6,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2019,
+    "rendimento": 5950,
+    "areaHa": 40000,
+    "anomalia": 12.7,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2020,
+    "rendimento": 5151,
+    "areaHa": 32000,
+    "anomalia": -4.2,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2021,
+    "rendimento": 4500,
+    "areaHa": 58000,
+    "anomalia": -17.8,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2022,
+    "rendimento": 4500,
+    "areaHa": 58000,
+    "anomalia": -19.2,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2023,
+    "rendimento": 4527,
+    "areaHa": 58000,
+    "anomalia": -20.1,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2024,
+    "rendimento": 4509,
+    "areaHa": 58000,
+    "anomalia": -21.7,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2025,
+    "rendimento": 7000,
+    "areaHa": 92500,
+    "anomalia": 19.5,
+    "geada": false,
+    "seca": true
+   }
+  ],
+  "francisco-beltrao": [
+   {
+    "ano": 2003,
+    "rendimento": 3000,
+    "areaHa": 5000,
+    "anomalia": 13.6,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2004,
+    "rendimento": 1800,
+    "areaHa": 3000,
+    "anomalia": -35.2,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2005,
+    "rendimento": 1200,
+    "areaHa": 800,
+    "anomalia": -58.8,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2006,
+    "rendimento": 3800,
+    "areaHa": 2000,
+    "anomalia": 24.5,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2007,
+    "rendimento": 4500,
+    "areaHa": 4000,
+    "anomalia": 41,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2008,
+    "rendimento": 3700,
+    "areaHa": 3000,
+    "anomalia": 11.2,
+    "geada": true,
+    "seca": true
+   },
+   {
+    "ano": 2009,
+    "rendimento": 2000,
+    "areaHa": 3200,
+    "anomalia": -42.3,
+    "geada": true,
+    "seca": true
+   },
+   {
+    "ano": 2010,
+    "rendimento": 4000,
+    "areaHa": 2500,
+    "anomalia": 11,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2011,
+    "rendimento": 4000,
+    "areaHa": 2250,
+    "anomalia": 6.9,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2012,
+    "rendimento": 4000,
+    "areaHa": 3000,
+    "anomalia": 3.2,
+    "geada": true,
+    "seca": true
+   },
+   {
+    "ano": 2013,
+    "rendimento": 4500,
+    "areaHa": 2000,
+    "anomalia": 12.1,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2014,
+    "rendimento": 4500,
+    "areaHa": 2000,
+    "anomalia": 8.4,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2015,
+    "rendimento": 5400,
+    "areaHa": 1700,
+    "anomalia": 25.9,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2016,
+    "rendimento": 4500,
+    "areaHa": 3000,
+    "anomalia": 1.7,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2017,
+    "rendimento": 4200,
+    "areaHa": 4500,
+    "anomalia": -8,
+    "geada": true,
+    "seca": false
+   },
+   {
+    "ano": 2018,
+    "rendimento": 4000,
+    "areaHa": 4500,
+    "anomalia": -14.9,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2019,
+    "rendimento": 6000,
+    "areaHa": 5000,
+    "anomalia": 24,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2020,
+    "rendimento": 6000,
+    "areaHa": 5500,
+    "anomalia": 20.6,
+    "geada": true,
+    "seca": true
+   },
+   {
+    "ano": 2021,
+    "rendimento": 3000,
+    "areaHa": 3500,
+    "anomalia": -41.3,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2022,
+    "rendimento": 4800,
+    "areaHa": 6500,
+    "anomalia": -8.6,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2023,
+    "rendimento": 5000,
+    "areaHa": 2500,
+    "anomalia": -7.2,
+    "geada": false,
+    "seca": true
+   },
+   {
+    "ano": 2024,
+    "rendimento": 5600,
+    "areaHa": 2500,
+    "anomalia": 1.3,
+    "geada": false,
+    "seca": false
+   },
+   {
+    "ano": 2025,
+    "rendimento": 6000,
+    "areaHa": 4000,
+    "anomalia": 6,
+    "geada": false,
+    "seca": true
+   }
+  ]
+ }
+}

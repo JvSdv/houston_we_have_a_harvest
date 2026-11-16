@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cache dos testes de validação (baixado de novo pelos scripts)
+/.cache/

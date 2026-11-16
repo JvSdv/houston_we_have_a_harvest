@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "fonte": "Previsões publicadas do Open-Meteo (API previous runs, modelo padrão) × estações automáticas do INMET (cópia NOAA/NCEI GSOD)",
+  "periodo": [
+   "2024-01-01",
+   "2026-11-12"
+  ],
+  "estacoes": 40,
+  "limiteGeadaC": 3,
+  "chuvaForteMm": 50
+ },
+ "geadaPorAntecedencia": [
+  {
+   "dias": 1,
+   "n": 22836,
+   "ambos": 286,
+   "soPrevisao": 101,
+   "soEstacao": 202,
+   "nenhum": 22247,
+   "acerto": 58.6,
+   "alarmeFalso": 26.1,
+   "concordancia": 98.7,
+   "viesMinimaC": 0.28
+  },
+  {
+   "dias": 2,
+   "n": 22796,
+   "ambos": 273,
+   "soPrevisao": 84,
+   "soEstacao": 215,
+   "nenhum": 22224,
+   "acerto": 55.9,
+   "alarmeFalso": 23.5,
+   "concordancia": 98.7,
+   "viesMinimaC": 0.31
+  },
+  {
+   "dias": 3,
+   "n": 22756,
+   "ambos": 268,
+   "soPrevisao": 72,
+   "soEstacao": 220,
+   "nenhum": 22196,
+   "acerto": 54.9,
+   "alarmeFalso": 21.2,
+   "concordancia": 98.7,
+   "viesMinimaC": 0.37
+  },
+  {
+   "dias": 4,
+   "n": 22716,
+   "ambos": 230,
+   "soPrevisao": 64,
+   "soEstacao": 258,
+   "nenhum": 22164,
+   "acerto": 47.1,
+   "alarmeFalso": 21.8,
+   "concordancia": 98.6,
+   "viesMinimaC": 0.42
+  },
+  {
+   "dias": 5,
+   "n": 22676,
+   "ambos": 175,
+   "soPrevisao": 72,
+   "soEstacao": 313,
+   "nenhum": 22116,
+   "acerto": 35.9,
+   "alarmeFalso": 29.1,
+   "concordancia": 98.3,
+   "viesMinimaC": 0.49
+  },
+  {
+   "dias": 6,
+   "n": 22636,
+   "ambos": 195,
+   "soPrevisao": 130,
+   "soEstacao": 293,
+   "nenhum": 22018,
+   "acerto": 40,
+   "alarmeFalso": 40,
+   "concordancia": 98.1,
+   "viesMinimaC": 0.45
+  },
+  {
+   "dias": 7,
+   "n": 22596,
+   "ambos": 170,
+   "soPrevisao": 178,
+   "soEstacao": 318,
+   "nenhum": 21930,
+   "acerto": 34.8,
+   "alarmeFalso": 51.1,
+   "concordancia": 97.8,
+   "viesMinimaC": -0.32
+  }
+ ],
+ "regraDaSemana": {
+  "n": 797,
+  "ambos": 12,
+  "soPrevisao": 25,
+  "soEstacao": 67,
+  "nenhum": 693,
+  "acerto": 15.2,
+  "alarmeFalso": 67.6,
+  "concordancia": 88.5
+ },
+ "geadaDaSemana": {
+  "n": 797,
+  "ambos": 8,
+  "soPrevisao": 5,
+  "soEstacao": 32,
+  "nenhum": 752,
+  "acerto": 20,
+  "alarmeFalso": 38.5,
+  "concordancia": 95.4
+ }
+}

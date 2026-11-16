@@ -1,0 +1,370 @@
+{
+ "meta": {
+  "fonte": "IBGE SIDRA · Pesquisa Agrícola Municipal, tabela 839, Milho (em grão) 2ª safra",
+  "baixadoEm": "2026-11-15T01:59:03.789Z",
+  "urls": {
+   "pato-branco.rendimentoKgHa": "https://apisidra.ibge.gov.br/values/t/839/n6/4118501/v/112/p/all/c81/114254?formato=json",
+   "pato-branco.areaColhidaHa": "https://apisidra.ibge.gov.br/values/t/839/n6/4118501/v/216/p/all/c81/114254?formato=json",
+   "pato-branco.producaoT": "https://apisidra.ibge.gov.br/values/t/839/n6/4118501/v/214/p/all/c81/114254?formato=json",
+   "cascavel.rendimentoKgHa": "https://apisidra.ibge.gov.br/values/t/839/n6/4104808/v/112/p/all/c81/114254?formato=json",
+   "cascavel.areaColhidaHa": "https://apisidra.ibge.gov.br/values/t/839/n6/4104808/v/216/p/all/c81/114254?formato=json",
+   "cascavel.producaoT": "https://apisidra.ibge.gov.br/values/t/839/n6/4104808/v/214/p/all/c81/114254?formato=json",
+   "francisco-beltrao.rendimentoKgHa": "https://apisidra.ibge.gov.br/values/t/839/n6/4108403/v/112/p/all/c81/114254?formato=json",
+   "francisco-beltrao.areaColhidaHa": "https://apisidra.ibge.gov.br/values/t/839/n6/4108403/v/216/p/all/c81/114254?formato=json",
+   "francisco-beltrao.producaoT": "https://apisidra.ibge.gov.br/values/t/839/n6/4108403/v/214/p/all/c81/114254?formato=json"
+  }
+ },
+ "dados": {
+  "pato-branco": {
+   "2003": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 200,
+    "producaoT": 1200
+   },
+   "2004": {
+    "rendimentoKgHa": 3500,
+    "areaColhidaHa": 200,
+    "producaoT": 700
+   },
+   "2005": {
+    "rendimentoKgHa": 3000,
+    "areaColhidaHa": 400,
+    "producaoT": 1200
+   },
+   "2006": {
+    "rendimentoKgHa": 2000,
+    "areaColhidaHa": 50,
+    "producaoT": 100
+   },
+   "2007": {
+    "rendimentoKgHa": null,
+    "areaColhidaHa": null,
+    "producaoT": null
+   },
+   "2008": {
+    "rendimentoKgHa": 3000,
+    "areaColhidaHa": 150,
+    "producaoT": 450
+   },
+   "2009": {
+    "rendimentoKgHa": null,
+    "areaColhidaHa": null,
+    "producaoT": null
+   },
+   "2010": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 200,
+    "producaoT": 1200
+   },
+   "2011": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 100,
+    "producaoT": 600
+   },
+   "2012": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 50,
+    "producaoT": 225
+   },
+   "2013": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 100,
+    "producaoT": 600
+   },
+   "2014": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 50,
+    "producaoT": 300
+   },
+   "2015": {
+    "rendimentoKgHa": 7400,
+    "areaColhidaHa": 1000,
+    "producaoT": 7400
+   },
+   "2016": {
+    "rendimentoKgHa": 6200,
+    "areaColhidaHa": 3500,
+    "producaoT": 21700
+   },
+   "2017": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 6000,
+    "producaoT": 36000
+   },
+   "2018": {
+    "rendimentoKgHa": 5700,
+    "areaColhidaHa": 3000,
+    "producaoT": 17100
+   },
+   "2019": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 10100,
+    "producaoT": 60600
+   },
+   "2020": {
+    "rendimentoKgHa": 7000,
+    "areaColhidaHa": 12000,
+    "producaoT": 84000
+   },
+   "2021": {
+    "rendimentoKgHa": 2396,
+    "areaColhidaHa": 12000,
+    "producaoT": 28750
+   },
+   "2022": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 14600,
+    "producaoT": 87600
+   },
+   "2023": {
+    "rendimentoKgHa": 5200,
+    "areaColhidaHa": 6000,
+    "producaoT": 31200
+   },
+   "2024": {
+    "rendimentoKgHa": 5200,
+    "areaColhidaHa": 6000,
+    "producaoT": 31200
+   },
+   "2025": {
+    "rendimentoKgHa": 8700,
+    "areaColhidaHa": 8000,
+    "producaoT": 69600
+   }
+  },
+  "cascavel": {
+   "2003": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 15000,
+    "producaoT": 67500
+   },
+   "2004": {
+    "rendimentoKgHa": 2500,
+    "areaColhidaHa": 6250,
+    "producaoT": 15625
+   },
+   "2005": {
+    "rendimentoKgHa": 3000,
+    "areaColhidaHa": 5500,
+    "producaoT": 16500
+   },
+   "2006": {
+    "rendimentoKgHa": 4400,
+    "areaColhidaHa": 8500,
+    "producaoT": 37400
+   },
+   "2007": {
+    "rendimentoKgHa": 3719,
+    "areaColhidaHa": 12250,
+    "producaoT": 45558
+   },
+   "2008": {
+    "rendimentoKgHa": 3500,
+    "areaColhidaHa": 13000,
+    "producaoT": 45500
+   },
+   "2009": {
+    "rendimentoKgHa": 3600,
+    "areaColhidaHa": 14800,
+    "producaoT": 53280
+   },
+   "2010": {
+    "rendimentoKgHa": 5381,
+    "areaColhidaHa": 13500,
+    "producaoT": 72647
+   },
+   "2011": {
+    "rendimentoKgHa": 3989,
+    "areaColhidaHa": 16500,
+    "producaoT": 65821
+   },
+   "2012": {
+    "rendimentoKgHa": 4840,
+    "areaColhidaHa": 27000,
+    "producaoT": 130680
+   },
+   "2013": {
+    "rendimentoKgHa": 5000,
+    "areaColhidaHa": 70000,
+    "producaoT": 350000
+   },
+   "2014": {
+    "rendimentoKgHa": 6050,
+    "areaColhidaHa": 50500,
+    "producaoT": 305525
+   },
+   "2015": {
+    "rendimentoKgHa": 6080,
+    "areaColhidaHa": 50250,
+    "producaoT": 305500
+   },
+   "2016": {
+    "rendimentoKgHa": 7066,
+    "areaColhidaHa": 53000,
+    "producaoT": 374490
+   },
+   "2017": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 51800,
+    "producaoT": 310800
+   },
+   "2018": {
+    "rendimentoKgHa": 4580,
+    "areaColhidaHa": 26830,
+    "producaoT": 122881
+   },
+   "2019": {
+    "rendimentoKgHa": 5950,
+    "areaColhidaHa": 40000,
+    "producaoT": 238000
+   },
+   "2020": {
+    "rendimentoKgHa": 5151,
+    "areaColhidaHa": 32000,
+    "producaoT": 164832
+   },
+   "2021": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 58000,
+    "producaoT": 261000
+   },
+   "2022": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 58000,
+    "producaoT": 261000
+   },
+   "2023": {
+    "rendimentoKgHa": 4527,
+    "areaColhidaHa": 58000,
+    "producaoT": 262570
+   },
+   "2024": {
+    "rendimentoKgHa": 4509,
+    "areaColhidaHa": 58000,
+    "producaoT": 261522
+   },
+   "2025": {
+    "rendimentoKgHa": 7000,
+    "areaColhidaHa": 92500,
+    "producaoT": 647500
+   }
+  },
+  "francisco-beltrao": {
+   "2003": {
+    "rendimentoKgHa": 3000,
+    "areaColhidaHa": 5000,
+    "producaoT": 15000
+   },
+   "2004": {
+    "rendimentoKgHa": 1800,
+    "areaColhidaHa": 3000,
+    "producaoT": 5400
+   },
+   "2005": {
+    "rendimentoKgHa": 1200,
+    "areaColhidaHa": 800,
+    "producaoT": 960
+   },
+   "2006": {
+    "rendimentoKgHa": 3800,
+    "areaColhidaHa": 2000,
+    "producaoT": 7600
+   },
+   "2007": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 4000,
+    "producaoT": 18000
+   },
+   "2008": {
+    "rendimentoKgHa": 3700,
+    "areaColhidaHa": 3000,
+    "producaoT": 11100
+   },
+   "2009": {
+    "rendimentoKgHa": 2000,
+    "areaColhidaHa": 3200,
+    "producaoT": 6400
+   },
+   "2010": {
+    "rendimentoKgHa": 4000,
+    "areaColhidaHa": 2500,
+    "producaoT": 10000
+   },
+   "2011": {
+    "rendimentoKgHa": 4000,
+    "areaColhidaHa": 2250,
+    "producaoT": 9000
+   },
+   "2012": {
+    "rendimentoKgHa": 4000,
+    "areaColhidaHa": 3000,
+    "producaoT": 12000
+   },
+   "2013": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 2000,
+    "producaoT": 9000
+   },
+   "2014": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 2000,
+    "producaoT": 9000
+   },
+   "2015": {
+    "rendimentoKgHa": 5400,
+    "areaColhidaHa": 1700,
+    "producaoT": 9180
+   },
+   "2016": {
+    "rendimentoKgHa": 4500,
+    "areaColhidaHa": 3000,
+    "producaoT": 13500
+   },
+   "2017": {
+    "rendimentoKgHa": 4200,
+    "areaColhidaHa": 4500,
+    "producaoT": 18900
+   },
+   "2018": {
+    "rendimentoKgHa": 4000,
+    "areaColhidaHa": 4500,
+    "producaoT": 18000
+   },
+   "2019": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 5000,
+    "producaoT": 30000
+   },
+   "2020": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 5500,
+    "producaoT": 33000
+   },
+   "2021": {
+    "rendimentoKgHa": 3000,
+    "areaColhidaHa": 3500,
+    "producaoT": 10500
+   },
+   "2022": {
+    "rendimentoKgHa": 4800,
+    "areaColhidaHa": 6500,
+    "producaoT": 31200
+   },
+   "2023": {
+    "rendimentoKgHa": 5000,
+    "areaColhidaHa": 2500,
+    "producaoT": 12500
+   },
+   "2024": {
+    "rendimentoKgHa": 5600,
+    "areaColhidaHa": 2500,
+    "producaoT": 14000
+   },
+   "2025": {
+    "rendimentoKgHa": 6000,
+    "areaColhidaHa": 4000,
+    "producaoT": 24000
+   }
+  }
+ }
+}

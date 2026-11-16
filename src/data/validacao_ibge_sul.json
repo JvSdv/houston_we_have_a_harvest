@@ -1,0 +1,2437 @@
+{
+ "meta": {
+  "fonte": "IBGE SIDRA · PAM tabela 839, Milho (em grão) 2ª safra, municípios do PR e SC",
+  "baixadoEm": "2026-11-15T20:38:47.216Z",
+  "municipios": 269,
+  "anosMunicipio": 5652,
+  "minAreaHa": 500,
+  "minAnos": 12,
+  "dataPrincipal": "10-20",
+  "permutacoes": 5000
+ },
+ "principal": {
+  "geada": {
+   "A": {
+    "d": -0.0116,
+    "nMarc": 381,
+    "nNao": 5271,
+    "mMarc": -0.0112,
+    "mNao": 0.0004,
+    "p": 0.3037
+   },
+   "B": {
+    "d": -0.0021,
+    "nMarc": 381,
+    "nNao": 5271,
+    "mMarc": -0.002,
+    "mNao": 0.0001,
+    "p": 0.8262
+   },
+   "C": {
+    "anos": 23,
+    "efeitoTodosMarcados": -0.0243,
+    "correlacao": -0.0236,
+    "p": 0.9204,
+    "porAno": [
+     {
+      "ano": 2003,
+      "fracaoMarcados": 0.0591,
+      "anomaliaMedia": 0.1702
+     },
+     {
+      "ano": 2004,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.1472
+     },
+     {
+      "ano": 2005,
+      "fracaoMarcados": 0.04,
+      "anomaliaMedia": -0.2683
+     },
+     {
+      "ano": 2006,
+      "fracaoMarcados": 0.0048,
+      "anomaliaMedia": -0.0568
+     },
+     {
+      "ano": 2007,
+      "fracaoMarcados": 0.7426,
+      "anomaliaMedia": -0.0114
+     },
+     {
+      "ano": 2008,
+      "fracaoMarcados": 0.1218,
+      "anomaliaMedia": 0.0114
+     },
+     {
+      "ano": 2009,
+      "fracaoMarcados": 0.088,
+      "anomaliaMedia": -0.1982
+     },
+     {
+      "ano": 2010,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": 0.1375
+     },
+     {
+      "ano": 2011,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.1113
+     },
+     {
+      "ano": 2012,
+      "fracaoMarcados": 0.0595,
+      "anomaliaMedia": 0.1315
+     },
+     {
+      "ano": 2013,
+      "fracaoMarcados": 0.0279,
+      "anomaliaMedia": 0.0474
+     },
+     {
+      "ano": 2014,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": 0.1965
+     },
+     {
+      "ano": 2015,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": 0.256
+     },
+     {
+      "ano": 2016,
+      "fracaoMarcados": 0.1756,
+      "anomaliaMedia": -0.0313
+     },
+     {
+      "ano": 2017,
+      "fracaoMarcados": 0.0684,
+      "anomaliaMedia": 0.1482
+     },
+     {
+      "ano": 2018,
+      "fracaoMarcados": 0.0496,
+      "anomaliaMedia": -0.0711
+     },
+     {
+      "ano": 2019,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": 0.0862
+     },
+     {
+      "ano": 2020,
+      "fracaoMarcados": 0.0455,
+      "anomaliaMedia": 0.0655
+     },
+     {
+      "ano": 2021,
+      "fracaoMarcados": 0.0038,
+      "anomaliaMedia": -0.3965
+     },
+     {
+      "ano": 2022,
+      "fracaoMarcados": 0.0566,
+      "anomaliaMedia": -0.1312
+     },
+     {
+      "ano": 2023,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": 0.0496
+     },
+     {
+      "ano": 2024,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.066
+     },
+     {
+      "ano": 2025,
+      "fracaoMarcados": 0.0269,
+      "anomaliaMedia": 0.1056
+     }
+    ]
+   }
+  },
+  "seca": {
+   "A": {
+    "d": -0.0752,
+    "nMarc": 2959,
+    "nNao": 2693,
+    "mMarc": -0.0362,
+    "mNao": 0.039,
+    "p": 0.0002
+   },
+   "B": {
+    "d": -0.0044,
+    "nMarc": 2959,
+    "nNao": 2693,
+    "mMarc": -0.0021,
+    "mNao": 0.0023,
+    "p": 0.3669
+   },
+   "C": {
+    "anos": 23,
+    "efeitoTodosMarcados": -0.1148,
+    "correlacao": -0.2905,
+    "p": 0.1774,
+    "porAno": [
+     {
+      "ano": 2003,
+      "fracaoMarcados": 0.8776,
+      "anomaliaMedia": 0.1702
+     },
+     {
+      "ano": 2004,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.1472
+     },
+     {
+      "ano": 2005,
+      "fracaoMarcados": 0.63,
+      "anomaliaMedia": -0.2683
+     },
+     {
+      "ano": 2006,
+      "fracaoMarcados": 0.9469,
+      "anomaliaMedia": -0.0568
+     },
+     {
+      "ano": 2007,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.0114
+     },
+     {
+      "ano": 2008,
+      "fracaoMarcados": 0.8319,
+      "anomaliaMedia": 0.0114
+     },
+     {
+      "ano": 2009,
+      "fracaoMarcados": 0.8611,
+      "anomaliaMedia": -0.1982
+     },
+     {
+      "ano": 2010,
+      "fracaoMarcados": 0.0264,
+      "anomaliaMedia": 0.1375
+     },
+     {
+      "ano": 2011,
+      "fracaoMarcados": 0.8963,
+      "anomaliaMedia": -0.1113
+     },
+     {
+      "ano": 2012,
+      "fracaoMarcados": 0.1905,
+      "anomaliaMedia": 0.1315
+     },
+     {
+      "ano": 2013,
+      "fracaoMarcados": 1,
+      "anomaliaMedia": 0.0474
+     },
+     {
+      "ano": 2014,
+      "fracaoMarcados": 0.2551,
+      "anomaliaMedia": 0.1965
+     },
+     {
+      "ano": 2015,
+      "fracaoMarcados": 0.1944,
+      "anomaliaMedia": 0.256
+     },
+     {
+      "ano": 2016,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.0313
+     },
+     {
+      "ano": 2017,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": 0.1482
+     },
+     {
+      "ano": 2018,
+      "fracaoMarcados": 0.5382,
+      "anomaliaMedia": -0.0711
+     },
+     {
+      "ano": 2019,
+      "fracaoMarcados": 0.1565,
+      "anomaliaMedia": 0.0862
+     },
+     {
+      "ano": 2020,
+      "fracaoMarcados": 1,
+      "anomaliaMedia": 0.0655
+     },
+     {
+      "ano": 2021,
+      "fracaoMarcados": 1,
+      "anomaliaMedia": -0.3965
+     },
+     {
+      "ano": 2022,
+      "fracaoMarcados": 0.1925,
+      "anomaliaMedia": -0.1312
+     },
+     {
+      "ano": 2023,
+      "fracaoMarcados": 0.8061,
+      "anomaliaMedia": 0.0496
+     },
+     {
+      "ano": 2024,
+      "fracaoMarcados": 0.7588,
+      "anomaliaMedia": -0.066
+     },
+     {
+      "ano": 2025,
+      "fracaoMarcados": 0.9423,
+      "anomaliaMedia": 0.1056
+     }
+    ]
+   }
+  },
+  "qualquer": {
+   "A": {
+    "d": -0.0766,
+    "nMarc": 3242,
+    "nNao": 2410,
+    "mMarc": -0.0331,
+    "mNao": 0.0436,
+    "p": 0.0002
+   },
+   "B": {
+    "d": -0.003,
+    "nMarc": 3242,
+    "nNao": 2410,
+    "mMarc": -0.0013,
+    "mNao": 0.0017,
+    "p": 0.5505
+   },
+   "C": {
+    "anos": 23,
+    "efeitoTodosMarcados": -0.1359,
+    "correlacao": -0.3188,
+    "p": 0.1321,
+    "porAno": [
+     {
+      "ano": 2003,
+      "fracaoMarcados": 0.9156,
+      "anomaliaMedia": 0.1702
+     },
+     {
+      "ano": 2004,
+      "fracaoMarcados": 0,
+      "anomaliaMedia": -0.1472
+     },
+     {
+      "ano": 2005,
+      "fracaoMarcados": 0.67,
+      "anomaliaMedia": -0.2683
+     },
+     {
+      "ano": 2006,
+      "fracaoMarcados": 0.9469,
+      "anomaliaMedia": -0.0568
+     },
+     {
+      "ano": 2007,
+      "fracaoMarcados": 0.7426,
+      "anomaliaMedia": -0.0114
+     },
+     {
+      "ano": 2008,
+      "fracaoMarcados": 0.8319,
+      "anomaliaMedia": 0.0114
+     },
+     {
+      "ano": 2009,
+      "fracaoMarcados": 0.8704,
+      "anomaliaMedia": -0.1982
+     },
+     {
+      "ano": 2010,
+      "fracaoMarcados": 0.0264,
+      "anomaliaMedia": 0.1375
+     },
+     {
+      "ano": 2011,
+      "fracaoMarcados": 0.8963,
+      "anomaliaMedia": -0.1113
+     },
+     {
+      "ano": 2012,
+      "fracaoMarcados": 0.2222,
+      "anomaliaMedia": 0.1315
+     },
+     {
+      "ano": 2013,
+      "fracaoMarcados": 1,
+      "anomaliaMedia": 0.0474
+     },
+     {
+      "ano": 2014,
+      "fracaoMarcados": 0.2551,
+      "anomaliaMedia": 0.1965
+     },
+     {
+      "ano": 2015,
+      "fracaoMarcados": 0.1944,
+      "anomaliaMedia": 0.256
+     },
+     {
+      "ano": 2016,
+      "fracaoMarcados": 0.1756,
+      "anomaliaMedia": -0.0313
+     },
+     {
+      "ano": 2017,
+      "fracaoMarcados": 0.0684,
+      "anomaliaMedia": 0.1482
+     },
+     {
+      "ano": 2018,
+      "fracaoMarcados": 0.5802,
+      "anomaliaMedia": -0.0711
+     },
+     {
+      "ano": 2019,
+      "fracaoMarcados": 0.1565,
+      "anomaliaMedia": 0.0862
+     },
+     {
+      "ano": 2020,
+      "fracaoMarcados": 1,
+      "anomaliaMedia": 0.0655
+     },
+     {
+      "ano": 2021,
+      "fracaoMarcados": 1,
+      "anomaliaMedia": -0.3965
+     },
+     {
+      "ano": 2022,
+      "fracaoMarcados": 0.2113,
+      "anomaliaMedia": -0.1312
+     },
+     {
+      "ano": 2023,
+      "fracaoMarcados": 0.8061,
+      "anomaliaMedia": 0.0496
+     },
+     {
+      "ano": 2024,
+      "fracaoMarcados": 0.7588,
+      "anomaliaMedia": -0.066
+     },
+     {
+      "ano": 2025,
+      "fracaoMarcados": 0.9423,
+      "anomaliaMedia": 0.1056
+     }
+    ]
+   }
+  }
+ },
+ "porData": {
+  "09-20": {
+   "geada": {
+    "A": {
+     "d": 0.063,
+     "nMarc": 80,
+     "nNao": 5572,
+     "mMarc": 0.0618,
+     "mNao": -0.0013,
+     "p": 0.005
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0812,
+     "nMarc": 2447,
+     "nNao": 3205,
+     "mMarc": -0.0464,
+     "mNao": 0.0348,
+     "p": 0.0002
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.0775,
+     "nMarc": 2520,
+     "nNao": 3132,
+     "mMarc": -0.0433,
+     "mNao": 0.0342,
+     "p": 0.0002
+    }
+   }
+  },
+  "10-01": {
+   "geada": {
+    "A": {
+     "d": 0.0634,
+     "nMarc": 98,
+     "nNao": 5554,
+     "mMarc": 0.0619,
+     "mNao": -0.0015,
+     "p": 0.0018
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.1041,
+     "nMarc": 2323,
+     "nNao": 3329,
+     "mMarc": -0.0617,
+     "mNao": 0.0424,
+     "p": 0.0002
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.1002,
+     "nMarc": 2402,
+     "nNao": 3250,
+     "mMarc": -0.058,
+     "mNao": 0.0422,
+     "p": 0.0002
+    }
+   }
+  },
+  "10-10": {
+   "geada": {
+    "A": {
+     "d": -0.0046,
+     "nMarc": 144,
+     "nNao": 5508,
+     "mMarc": -0.0049,
+     "mNao": -0.0003,
+     "p": 0.777
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0735,
+     "nMarc": 2864,
+     "nNao": 2788,
+     "mMarc": -0.0367,
+     "mNao": 0.0369,
+     "p": 0.0002
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.074,
+     "nMarc": 2962,
+     "nNao": 2690,
+     "mMarc": -0.0356,
+     "mNao": 0.0384,
+     "p": 0.0002
+    }
+   }
+  },
+  "10-20": {
+   "geada": {
+    "A": {
+     "d": -0.0116,
+     "nMarc": 381,
+     "nNao": 5271,
+     "mMarc": -0.0112,
+     "mNao": 0.0004,
+     "p": 0.3037
+    },
+    "B": {
+     "d": -0.0021,
+     "nMarc": 381,
+     "nNao": 5271,
+     "mMarc": -0.002,
+     "mNao": 0.0001,
+     "p": 0.8262
+    },
+    "C": {
+     "anos": 23,
+     "efeitoTodosMarcados": -0.0243,
+     "correlacao": -0.0236,
+     "p": 0.9204,
+     "porAno": [
+      {
+       "ano": 2003,
+       "fracaoMarcados": 0.0591,
+       "anomaliaMedia": 0.1702
+      },
+      {
+       "ano": 2004,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.1472
+      },
+      {
+       "ano": 2005,
+       "fracaoMarcados": 0.04,
+       "anomaliaMedia": -0.2683
+      },
+      {
+       "ano": 2006,
+       "fracaoMarcados": 0.0048,
+       "anomaliaMedia": -0.0568
+      },
+      {
+       "ano": 2007,
+       "fracaoMarcados": 0.7426,
+       "anomaliaMedia": -0.0114
+      },
+      {
+       "ano": 2008,
+       "fracaoMarcados": 0.1218,
+       "anomaliaMedia": 0.0114
+      },
+      {
+       "ano": 2009,
+       "fracaoMarcados": 0.088,
+       "anomaliaMedia": -0.1982
+      },
+      {
+       "ano": 2010,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": 0.1375
+      },
+      {
+       "ano": 2011,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.1113
+      },
+      {
+       "ano": 2012,
+       "fracaoMarcados": 0.0595,
+       "anomaliaMedia": 0.1315
+      },
+      {
+       "ano": 2013,
+       "fracaoMarcados": 0.0279,
+       "anomaliaMedia": 0.0474
+      },
+      {
+       "ano": 2014,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": 0.1965
+      },
+      {
+       "ano": 2015,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": 0.256
+      },
+      {
+       "ano": 2016,
+       "fracaoMarcados": 0.1756,
+       "anomaliaMedia": -0.0313
+      },
+      {
+       "ano": 2017,
+       "fracaoMarcados": 0.0684,
+       "anomaliaMedia": 0.1482
+      },
+      {
+       "ano": 2018,
+       "fracaoMarcados": 0.0496,
+       "anomaliaMedia": -0.0711
+      },
+      {
+       "ano": 2019,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": 0.0862
+      },
+      {
+       "ano": 2020,
+       "fracaoMarcados": 0.0455,
+       "anomaliaMedia": 0.0655
+      },
+      {
+       "ano": 2021,
+       "fracaoMarcados": 0.0038,
+       "anomaliaMedia": -0.3965
+      },
+      {
+       "ano": 2022,
+       "fracaoMarcados": 0.0566,
+       "anomaliaMedia": -0.1312
+      },
+      {
+       "ano": 2023,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": 0.0496
+      },
+      {
+       "ano": 2024,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.066
+      },
+      {
+       "ano": 2025,
+       "fracaoMarcados": 0.0269,
+       "anomaliaMedia": 0.1056
+      }
+     ]
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0752,
+     "nMarc": 2959,
+     "nNao": 2693,
+     "mMarc": -0.0362,
+     "mNao": 0.039,
+     "p": 0.0002
+    },
+    "B": {
+     "d": -0.0044,
+     "nMarc": 2959,
+     "nNao": 2693,
+     "mMarc": -0.0021,
+     "mNao": 0.0023,
+     "p": 0.3669
+    },
+    "C": {
+     "anos": 23,
+     "efeitoTodosMarcados": -0.1148,
+     "correlacao": -0.2905,
+     "p": 0.1774,
+     "porAno": [
+      {
+       "ano": 2003,
+       "fracaoMarcados": 0.8776,
+       "anomaliaMedia": 0.1702
+      },
+      {
+       "ano": 2004,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.1472
+      },
+      {
+       "ano": 2005,
+       "fracaoMarcados": 0.63,
+       "anomaliaMedia": -0.2683
+      },
+      {
+       "ano": 2006,
+       "fracaoMarcados": 0.9469,
+       "anomaliaMedia": -0.0568
+      },
+      {
+       "ano": 2007,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.0114
+      },
+      {
+       "ano": 2008,
+       "fracaoMarcados": 0.8319,
+       "anomaliaMedia": 0.0114
+      },
+      {
+       "ano": 2009,
+       "fracaoMarcados": 0.8611,
+       "anomaliaMedia": -0.1982
+      },
+      {
+       "ano": 2010,
+       "fracaoMarcados": 0.0264,
+       "anomaliaMedia": 0.1375
+      },
+      {
+       "ano": 2011,
+       "fracaoMarcados": 0.8963,
+       "anomaliaMedia": -0.1113
+      },
+      {
+       "ano": 2012,
+       "fracaoMarcados": 0.1905,
+       "anomaliaMedia": 0.1315
+      },
+      {
+       "ano": 2013,
+       "fracaoMarcados": 1,
+       "anomaliaMedia": 0.0474
+      },
+      {
+       "ano": 2014,
+       "fracaoMarcados": 0.2551,
+       "anomaliaMedia": 0.1965
+      },
+      {
+       "ano": 2015,
+       "fracaoMarcados": 0.1944,
+       "anomaliaMedia": 0.256
+      },
+      {
+       "ano": 2016,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.0313
+      },
+      {
+       "ano": 2017,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": 0.1482
+      },
+      {
+       "ano": 2018,
+       "fracaoMarcados": 0.5382,
+       "anomaliaMedia": -0.0711
+      },
+      {
+       "ano": 2019,
+       "fracaoMarcados": 0.1565,
+       "anomaliaMedia": 0.0862
+      },
+      {
+       "ano": 2020,
+       "fracaoMarcados": 1,
+       "anomaliaMedia": 0.0655
+      },
+      {
+       "ano": 2021,
+       "fracaoMarcados": 1,
+       "anomaliaMedia": -0.3965
+      },
+      {
+       "ano": 2022,
+       "fracaoMarcados": 0.1925,
+       "anomaliaMedia": -0.1312
+      },
+      {
+       "ano": 2023,
+       "fracaoMarcados": 0.8061,
+       "anomaliaMedia": 0.0496
+      },
+      {
+       "ano": 2024,
+       "fracaoMarcados": 0.7588,
+       "anomaliaMedia": -0.066
+      },
+      {
+       "ano": 2025,
+       "fracaoMarcados": 0.9423,
+       "anomaliaMedia": 0.1056
+      }
+     ]
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.0766,
+     "nMarc": 3242,
+     "nNao": 2410,
+     "mMarc": -0.0331,
+     "mNao": 0.0436,
+     "p": 0.0002
+    },
+    "B": {
+     "d": -0.003,
+     "nMarc": 3242,
+     "nNao": 2410,
+     "mMarc": -0.0013,
+     "mNao": 0.0017,
+     "p": 0.5505
+    },
+    "C": {
+     "anos": 23,
+     "efeitoTodosMarcados": -0.1359,
+     "correlacao": -0.3188,
+     "p": 0.1321,
+     "porAno": [
+      {
+       "ano": 2003,
+       "fracaoMarcados": 0.9156,
+       "anomaliaMedia": 0.1702
+      },
+      {
+       "ano": 2004,
+       "fracaoMarcados": 0,
+       "anomaliaMedia": -0.1472
+      },
+      {
+       "ano": 2005,
+       "fracaoMarcados": 0.67,
+       "anomaliaMedia": -0.2683
+      },
+      {
+       "ano": 2006,
+       "fracaoMarcados": 0.9469,
+       "anomaliaMedia": -0.0568
+      },
+      {
+       "ano": 2007,
+       "fracaoMarcados": 0.7426,
+       "anomaliaMedia": -0.0114
+      },
+      {
+       "ano": 2008,
+       "fracaoMarcados": 0.8319,
+       "anomaliaMedia": 0.0114
+      },
+      {
+       "ano": 2009,
+       "fracaoMarcados": 0.8704,
+       "anomaliaMedia": -0.1982
+      },
+      {
+       "ano": 2010,
+       "fracaoMarcados": 0.0264,
+       "anomaliaMedia": 0.1375
+      },
+      {
+       "ano": 2011,
+       "fracaoMarcados": 0.8963,
+       "anomaliaMedia": -0.1113
+      },
+      {
+       "ano": 2012,
+       "fracaoMarcados": 0.2222,
+       "anomaliaMedia": 0.1315
+      },
+      {
+       "ano": 2013,
+       "fracaoMarcados": 1,
+       "anomaliaMedia": 0.0474
+      },
+      {
+       "ano": 2014,
+       "fracaoMarcados": 0.2551,
+       "anomaliaMedia": 0.1965
+      },
+      {
+       "ano": 2015,
+       "fracaoMarcados": 0.1944,
+       "anomaliaMedia": 0.256
+      },
+      {
+       "ano": 2016,
+       "fracaoMarcados": 0.1756,
+       "anomaliaMedia": -0.0313
+      },
+      {
+       "ano": 2017,
+       "fracaoMarcados": 0.0684,
+       "anomaliaMedia": 0.1482
+      },
+      {
+       "ano": 2018,
+       "fracaoMarcados": 0.5802,
+       "anomaliaMedia": -0.0711
+      },
+      {
+       "ano": 2019,
+       "fracaoMarcados": 0.1565,
+       "anomaliaMedia": 0.0862
+      },
+      {
+       "ano": 2020,
+       "fracaoMarcados": 1,
+       "anomaliaMedia": 0.0655
+      },
+      {
+       "ano": 2021,
+       "fracaoMarcados": 1,
+       "anomaliaMedia": -0.3965
+      },
+      {
+       "ano": 2022,
+       "fracaoMarcados": 0.2113,
+       "anomaliaMedia": -0.1312
+      },
+      {
+       "ano": 2023,
+       "fracaoMarcados": 0.8061,
+       "anomaliaMedia": 0.0496
+      },
+      {
+       "ano": 2024,
+       "fracaoMarcados": 0.7588,
+       "anomaliaMedia": -0.066
+      },
+      {
+       "ano": 2025,
+       "fracaoMarcados": 0.9423,
+       "anomaliaMedia": 0.1056
+      }
+     ]
+    }
+   }
+  },
+  "10-30": {
+   "geada": {
+    "A": {
+     "d": -0.065,
+     "nMarc": 974,
+     "nNao": 4678,
+     "mMarc": -0.0542,
+     "mNao": 0.0108,
+     "p": 0.0002
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0834,
+     "nMarc": 2615,
+     "nNao": 3037,
+     "mMarc": -0.0452,
+     "mNao": 0.0382,
+     "p": 0.0002
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.1112,
+     "nMarc": 3375,
+     "nNao": 2277,
+     "mMarc": -0.0452,
+     "mNao": 0.066,
+     "p": 0.0002
+    }
+   }
+  },
+  "11-10": {
+   "geada": {
+    "A": {
+     "d": -0.0713,
+     "nMarc": 1504,
+     "nNao": 4148,
+     "mMarc": -0.0527,
+     "mNao": 0.0186,
+     "p": 0.0002
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0694,
+     "nMarc": 2990,
+     "nNao": 2662,
+     "mMarc": -0.0331,
+     "mNao": 0.0363,
+     "p": 0.0002
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.1447,
+     "nMarc": 3978,
+     "nNao": 1674,
+     "mMarc": -0.0432,
+     "mNao": 0.1014,
+     "p": 0.0002
+    }
+   }
+  },
+  "11-20": {
+   "geada": {
+    "A": {
+     "d": -0.1242,
+     "nMarc": 2286,
+     "nNao": 3366,
+     "mMarc": -0.0744,
+     "mNao": 0.0499,
+     "p": 0.0002
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0527,
+     "nMarc": 2820,
+     "nNao": 2832,
+     "mMarc": -0.0268,
+     "mNao": 0.0259,
+     "p": 0.0002
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.144,
+     "nMarc": 4158,
+     "nNao": 1494,
+     "mMarc": -0.0385,
+     "mNao": 0.1056,
+     "p": 0.0002
+    }
+   }
+  },
+  "11-30": {
+   "geada": {
+    "A": {
+     "d": -0.0947,
+     "nMarc": 2737,
+     "nNao": 2915,
+     "mMarc": -0.0492,
+     "mNao": 0.0455,
+     "p": 0.0002
+    }
+   },
+   "seca": {
+    "A": {
+     "d": -0.0218,
+     "nMarc": 3405,
+     "nNao": 2247,
+     "mMarc": -0.009,
+     "mNao": 0.0127,
+     "p": 0.0016
+    }
+   },
+   "qualquer": {
+    "A": {
+     "d": -0.1363,
+     "nMarc": 4590,
+     "nNao": 1062,
+     "mMarc": -0.026,
+     "mNao": 0.1103,
+     "p": 0.0002
+    }
+   }
+  }
+ },
+ "testes": 24,
+ "significativos": 22,
+ "municipiosUsados": [
+  {
+   "cod": "4100103",
+   "nome": "Abatiá - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4100509",
+   "nome": "Altônia - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4100707",
+   "nome": "Alto Piquiri - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4100806",
+   "nome": "Alvorada do Sul - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4100905",
+   "nome": "Amaporã - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4101002",
+   "nome": "Ampére - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4101051",
+   "nome": "Anahy - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4101101",
+   "nome": "Andirá - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4101150",
+   "nome": "Ângulo - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4101408",
+   "nome": "Apucarana - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4101507",
+   "nome": "Arapongas - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4101606",
+   "nome": "Arapoti - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4101655",
+   "nome": "Arapuã - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4101705",
+   "nome": "Araruna - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4101853",
+   "nome": "Ariranha do Ivaí - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4101903",
+   "nome": "Assaí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102000",
+   "nome": "Assis Chateaubriand - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102109",
+   "nome": "Astorga - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102208",
+   "nome": "Atalaia - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102406",
+   "nome": "Bandeirantes - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102505",
+   "nome": "Barbosa Ferraz - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102604",
+   "nome": "Barracão - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4102703",
+   "nome": "Barra do Jacaré - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4102752",
+   "nome": "Bela Vista da Caroba - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4102802",
+   "nome": "Bela Vista do Paraíso - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103008",
+   "nome": "Boa Esperança - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103057",
+   "nome": "Boa Vista da Aparecida - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4103156",
+   "nome": "Bom Jesus do Sul - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103206",
+   "nome": "Bom Sucesso - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4103305",
+   "nome": "Borrazópolis - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103354",
+   "nome": "Braganey - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103370",
+   "nome": "Brasilândia do Sul - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103404",
+   "nome": "Cafeara - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103453",
+   "nome": "Cafelândia - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103479",
+   "nome": "Cafezal do Sul - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4103503",
+   "nome": "Califórnia - PR",
+   "anos": 12
+  },
+  {
+   "cod": "4103602",
+   "nome": "Cambará - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103701",
+   "nome": "Cambé - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4103800",
+   "nome": "Cambira - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4103909",
+   "nome": "Campina da Lagoa - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4104055",
+   "nome": "Campo Bonito - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4104303",
+   "nome": "Campo Mourão - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4104402",
+   "nome": "Cândido de Abreu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4104501",
+   "nome": "Capanema - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4104600",
+   "nome": "Capitão Leônidas Marques - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4104709",
+   "nome": "Carlópolis - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4104808",
+   "nome": "Cascavel - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4104907",
+   "nome": "Castro - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4105003",
+   "nome": "Catanduvas - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4105102",
+   "nome": "Centenário do Sul - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4105300",
+   "nome": "Céu Azul - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4105409",
+   "nome": "Chopinzinho - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4105508",
+   "nome": "Cianorte - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4105904",
+   "nome": "Colorado - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4106001",
+   "nome": "Congonhinhas - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4106100",
+   "nome": "Conselheiro Mairinck - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4106308",
+   "nome": "Corbélia - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4106407",
+   "nome": "Cornélio Procópio - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4106555",
+   "nome": "Corumbataí do Sul - PR",
+   "anos": 14
+  },
+  {
+   "cod": "4106571",
+   "nome": "Cruzeiro do Iguaçu - PR",
+   "anos": 12
+  },
+  {
+   "cod": "4106605",
+   "nome": "Cruzeiro do Oeste - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4106704",
+   "nome": "Cruzeiro do Sul - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4106803",
+   "nome": "Cruz Machado - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4106852",
+   "nome": "Cruzmaltina - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4107009",
+   "nome": "Curiúva - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4107157",
+   "nome": "Diamante D'Oeste - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4107207",
+   "nome": "Dois Vizinhos - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4107256",
+   "nome": "Douradina - PR",
+   "anos": 14
+  },
+  {
+   "cod": "4107306",
+   "nome": "Doutor Camargo - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4107405",
+   "nome": "Enéas Marques - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4107504",
+   "nome": "Engenheiro Beltrão - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4107538",
+   "nome": "Entre Rios do Oeste - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4107546",
+   "nome": "Espigão Alto do Iguaçu - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4107553",
+   "nome": "Farol - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4107603",
+   "nome": "Faxinal - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4107702",
+   "nome": "Fênix - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4107736",
+   "nome": "Fernandes Pinheiro - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4107751",
+   "nome": "Figueira - PR",
+   "anos": 14
+  },
+  {
+   "cod": "4107801",
+   "nome": "Floraí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4107850",
+   "nome": "Flor da Serra do Sul - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4107900",
+   "nome": "Floresta - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108007",
+   "nome": "Florestópolis - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108106",
+   "nome": "Flórida - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108205",
+   "nome": "Formosa do Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108304",
+   "nome": "Foz do Iguaçu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108320",
+   "nome": "Francisco Alves - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4108403",
+   "nome": "Francisco Beltrão - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108551",
+   "nome": "Godoy Moreira - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4108601",
+   "nome": "Goioerê - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4108700",
+   "nome": "Grandes Rios - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4108809",
+   "nome": "Guaíra - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4108957",
+   "nome": "Guamiranga - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4109005",
+   "nome": "Guapirama - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4109203",
+   "nome": "Guaraci - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4109302",
+   "nome": "Guaraniaçu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4109708",
+   "nome": "Ibaiti - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4109807",
+   "nome": "Ibiporã - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4110003",
+   "nome": "Iguaraçu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4110052",
+   "nome": "Iguatu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4110102",
+   "nome": "Imbituva - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4110409",
+   "nome": "Indianópolis - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4110508",
+   "nome": "Ipiranga - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4110607",
+   "nome": "Iporã - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4110656",
+   "nome": "Iracema do Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4110706",
+   "nome": "Irati - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4110805",
+   "nome": "Iretama - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4110904",
+   "nome": "Itaguajé - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4110953",
+   "nome": "Itaipulândia - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4111001",
+   "nome": "Itambaracá - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4111100",
+   "nome": "Itambé - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4111209",
+   "nome": "Itapejara d'Oeste - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4111407",
+   "nome": "Ivaí - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4111506",
+   "nome": "Ivaiporã - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4111605",
+   "nome": "Ivatuba - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4111704",
+   "nome": "Jaboti - PR",
+   "anos": 12
+  },
+  {
+   "cod": "4111803",
+   "nome": "Jacarezinho - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4111902",
+   "nome": "Jaguapitã - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4112108",
+   "nome": "Jandaia do Sul - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4112207",
+   "nome": "Janiópolis - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4112306",
+   "nome": "Japira - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4112405",
+   "nome": "Japurá - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4112504",
+   "nome": "Jardim Alegre - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4112603",
+   "nome": "Jardim Olinda - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4112702",
+   "nome": "Jataizinho - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4112751",
+   "nome": "Jesuítas - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4112801",
+   "nome": "Joaquim Távora - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4112900",
+   "nome": "Jundiaí do Sul - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4112959",
+   "nome": "Juranda - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113007",
+   "nome": "Jussara - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113106",
+   "nome": "Kaloré - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113304",
+   "nome": "Laranjeiras do Sul - PR",
+   "anos": 14
+  },
+  {
+   "cod": "4113403",
+   "nome": "Leópolis - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113429",
+   "nome": "Lidianópolis - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4113452",
+   "nome": "Lindoeste - PR",
+   "anos": 14
+  },
+  {
+   "cod": "4113601",
+   "nome": "Lobato - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113700",
+   "nome": "Londrina - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113734",
+   "nome": "Luiziana - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4113759",
+   "nome": "Lunardelli - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4113809",
+   "nome": "Lupionópolis - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4113908",
+   "nome": "Mallet - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4114005",
+   "nome": "Mamborê - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4114104",
+   "nome": "Mandaguaçu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4114203",
+   "nome": "Mandaguari - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4114500",
+   "nome": "Manoel Ribas - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4114609",
+   "nome": "Marechal Cândido Rondon - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4114807",
+   "nome": "Marialva - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4114906",
+   "nome": "Marilândia do Sul - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4115101",
+   "nome": "Mariluz - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4115200",
+   "nome": "Maringá - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4115358",
+   "nome": "Maripá - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4115408",
+   "nome": "Marmeleiro - PR",
+   "anos": 16
+  },
+  {
+   "cod": "4115606",
+   "nome": "Matelândia - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4115804",
+   "nome": "Medianeira - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4115853",
+   "nome": "Mercedes - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4115903",
+   "nome": "Mirador - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4116059",
+   "nome": "Missal - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4116109",
+   "nome": "Moreira Sales - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4116307",
+   "nome": "Munhoz de Melo - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4116406",
+   "nome": "Nossa Senhora das Graças - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4116604",
+   "nome": "Nova América da Colina - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4116703",
+   "nome": "Nova Aurora - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4116802",
+   "nome": "Nova Cantu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4116901",
+   "nome": "Nova Esperança - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117008",
+   "nome": "Nova Fátima - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117222",
+   "nome": "Nova Santa Rosa - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117255",
+   "nome": "Nova Prata do Iguaçu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117271",
+   "nome": "Nova Tebas - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4117297",
+   "nome": "Novo Itacolomi - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4117305",
+   "nome": "Ortigueira - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117404",
+   "nome": "Ourizona - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117453",
+   "nome": "Ouro Verde do Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117503",
+   "nome": "Paiçandu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4117909",
+   "nome": "Palotina - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4118006",
+   "nome": "Paraíso do Norte - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4118105",
+   "nome": "Paranacity - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4118303",
+   "nome": "Paranapoema - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4118451",
+   "nome": "Pato Bragado - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4118808",
+   "nome": "Peabiru - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4118857",
+   "nome": "Perobal - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4119004",
+   "nome": "Pérola d'Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4119202",
+   "nome": "Pinhalão - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4119251",
+   "nome": "Pinhal de São Bento - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4119400",
+   "nome": "Piraí do Sul - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4119657",
+   "nome": "Pitangueiras - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4119806",
+   "nome": "Planalto - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4119905",
+   "nome": "Ponta Grossa - PR",
+   "anos": 12
+  },
+  {
+   "cod": "4120002",
+   "nome": "Porecatu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4120333",
+   "nome": "Prado Ferreira - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4120358",
+   "nome": "Pranchita - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4120408",
+   "nome": "Presidente Castelo Branco - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4120507",
+   "nome": "Primeiro de Maio - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4120606",
+   "nome": "Prudentópolis - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4120655",
+   "nome": "Quarto Centenário - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4120705",
+   "nome": "Quatiguá - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4120853",
+   "nome": "Quatro Pontes - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4120903",
+   "nome": "Quedas do Iguaçu - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4121000",
+   "nome": "Querência do Norte - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121109",
+   "nome": "Quinta do Sol - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121257",
+   "nome": "Ramilândia - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4121307",
+   "nome": "Rancho Alegre - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121356",
+   "nome": "Rancho Alegre D'Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121406",
+   "nome": "Realeza - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121505",
+   "nome": "Rebouças - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121604",
+   "nome": "Renascença - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4121703",
+   "nome": "Reserva - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4121802",
+   "nome": "Ribeirão Claro - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4121901",
+   "nome": "Ribeirão do Pinhal - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4122008",
+   "nome": "Rio Azul - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4122107",
+   "nome": "Rio Bom - PR",
+   "anos": 14
+  },
+  {
+   "cod": "4122156",
+   "nome": "Rio Bonito do Iguaçu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4122172",
+   "nome": "Rio Branco do Ivaí - PR",
+   "anos": 17
+  },
+  {
+   "cod": "4122404",
+   "nome": "Rolândia - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4122701",
+   "nome": "Sabáudia - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4122800",
+   "nome": "Salgado Filho - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4122909",
+   "nome": "Salto do Itararé - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4123006",
+   "nome": "Salto do Lontra - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4123105",
+   "nome": "Santa Amélia - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4123303",
+   "nome": "Santa Cruz de Monte Castelo - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4123402",
+   "nome": "Santa Fé - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4123501",
+   "nome": "Santa Helena - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4123600",
+   "nome": "Santa Inês - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4123709",
+   "nome": "Santa Isabel do Ivaí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4123808",
+   "nome": "Santa Izabel do Oeste - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4123824",
+   "nome": "Santa Lúcia - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4123907",
+   "nome": "Santa Mariana - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4123956",
+   "nome": "Santa Mônica - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4124004",
+   "nome": "Santana do Itararé - PR",
+   "anos": 20
+  },
+  {
+   "cod": "4124020",
+   "nome": "Santa Tereza do Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4124053",
+   "nome": "Santa Terezinha de Itaipu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4124103",
+   "nome": "Santo Antônio da Platina - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4124400",
+   "nome": "Santo Antônio do Sudoeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4124509",
+   "nome": "Santo Inácio - PR",
+   "anos": 19
+  },
+  {
+   "cod": "4124608",
+   "nome": "São Carlos do Ivaí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4124806",
+   "nome": "São João - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4125001",
+   "nome": "São João do Ivaí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4125209",
+   "nome": "São Jorge d'Oeste - PR",
+   "anos": 15
+  },
+  {
+   "cod": "4125308",
+   "nome": "São Jorge do Ivaí - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4125407",
+   "nome": "São José da Boa Vista - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4125456",
+   "nome": "São José das Palmeiras - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4125555",
+   "nome": "São Manoel do Paraná - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4125704",
+   "nome": "São Miguel do Iguaçu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4125753",
+   "nome": "São Pedro do Iguaçu - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4125803",
+   "nome": "São Pedro do Ivaí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126009",
+   "nome": "São Sebastião da Amoreira - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4126108",
+   "nome": "São Tomé - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126256",
+   "nome": "Sarandi - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126306",
+   "nome": "Sengés - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4126355",
+   "nome": "Serranópolis do Iguaçu - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126405",
+   "nome": "Sertaneja - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126504",
+   "nome": "Sertanópolis - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126603",
+   "nome": "Siqueira Campos - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4126678",
+   "nome": "Tamarana - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4127007",
+   "nome": "Teixeira Soares - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4127205",
+   "nome": "Terra Boa - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4127403",
+   "nome": "Terra Roxa - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4127502",
+   "nome": "Tibagi - PR",
+   "anos": 22
+  },
+  {
+   "cod": "4127700",
+   "nome": "Toledo - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4127809",
+   "nome": "Tomazina - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4127858",
+   "nome": "Três Barras do Paraná - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4127908",
+   "nome": "Tuneiras do Oeste - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4127957",
+   "nome": "Tupãssi - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4128005",
+   "nome": "Ubiratã - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4128104",
+   "nome": "Umuarama - PR",
+   "anos": 13
+  },
+  {
+   "cod": "4128302",
+   "nome": "Uniflor - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4128401",
+   "nome": "Uraí - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4128500",
+   "nome": "Wenceslau Braz - PR",
+   "anos": 23
+  },
+  {
+   "cod": "4128534",
+   "nome": "Ventania - PR",
+   "anos": 18
+  },
+  {
+   "cod": "4128559",
+   "nome": "Vera Cruz do Oeste - PR",
+   "anos": 21
+  },
+  {
+   "cod": "4128609",
+   "nome": "Verê - PR",
+   "anos": 19
+  }
+ ]
+}

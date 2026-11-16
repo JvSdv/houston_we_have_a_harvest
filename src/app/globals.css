@@ -1,101 +1,119 @@
 @import "tailwindcss";
-@import "tw-animate-css";
-@import "shadcn/tailwind.css";
 
-@custom-variant dark (&:is(.dark *));
-
+/* Identidade "weharvest v3" (artefato "weharvest – nova identidade").
+   Céu #0A1424 · Lavoura #2E7D4A · Broto #9BE36B · Milho #C9A23A · Palha #F5F2EA
+   Geada #3E6EA8 · Atenção #B7791F · Risco alto #B4480E */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-sans), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-heading: var(--font-heading), var(--font-sans), system-ui, sans-serif;
-  --color-sidebar-ring: var(--sidebar-ring);
-  --color-sidebar-border: var(--sidebar-border);
-  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
-  --color-sidebar-accent: var(--sidebar-accent);
-  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
-  --color-sidebar-primary: var(--sidebar-primary);
-  --color-sidebar-foreground: var(--sidebar-foreground);
-  --color-sidebar: var(--sidebar);
-  --color-chart-5: var(--chart-5);
-  --color-chart-4: var(--chart-4);
-  --color-chart-3: var(--chart-3);
-  --color-chart-2: var(--chart-2);
-  --color-chart-1: var(--chart-1);
-  --color-ring: var(--ring);
-  --color-input: var(--input);
-  --color-border: var(--border);
-  --color-destructive: var(--destructive);
-  --color-accent-foreground: var(--accent-foreground);
-  --color-accent: var(--accent);
-  --color-muted-foreground: var(--muted-foreground);
-  --color-muted: var(--muted);
-  --color-secondary-foreground: var(--secondary-foreground);
-  --color-secondary: var(--secondary);
-  --color-primary-foreground: var(--primary-foreground);
-  --color-primary: var(--primary);
-  --color-popover-foreground: var(--popover-foreground);
-  --color-popover: var(--popover);
-  --color-card-foreground: var(--card-foreground);
-  --color-card: var(--card);
-  --radius-sm: calc(var(--radius) * 0.7);
-  --radius-md: calc(var(--radius) * 0.9);
-  --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) * 1.5);
-  --radius-2xl: calc(var(--radius) * 2);
-  --radius-3xl: calc(var(--radius) * 2.5);
-}
+  --font-sans: var(--font-archivo), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, SFMono-Regular, Menlo, monospace;
 
-:root {
-  --background: oklch(0.985 0.005 240);
-  --foreground: oklch(0.14 0.02 240);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.14 0.02 240);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.14 0.02 240);
-  --primary: oklch(0.45 0.2 250);
-  --primary-foreground: oklch(0.99 0 0);
-  --secondary: oklch(0.94 0.01 240);
-  --secondary-foreground: oklch(0.2 0.03 240);
-  --muted: oklch(0.95 0.01 240);
-  --muted-foreground: oklch(0.48 0.02 240);
-  --accent: oklch(0.93 0.03 240);
-  --accent-foreground: oklch(0.2 0.03 240);
-  --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.88 0.01 240);
-  --input: oklch(0.88 0.01 240);
-  --ring: oklch(0.45 0.2 250);
-  --radius: 1rem;
-}
+  /* marca */
+  --color-ceu: #0A1424;
+  --color-ceu-2: #15233A;
+  --color-ceu-line: #2B4263;
+  --color-lavoura: #2E7D4A;
+  --color-lavoura-escura: #1F5A34;
+  --color-broto: #9BE36B;
+  --color-milho: #C9A23A;
+  --color-palha: #F5F2EA;
+  --color-geada: #3E6EA8;
+  --color-atencao: #B7791F;
+  --color-risco: #B4480E;
+  --color-texto: #14231A;
+  --color-texto-2: #4A5A50;
+  --color-claro: #F2F5EE;
+  --color-claro-2: #C7D2DE;
+  --color-campo: #F3F0E7;
+  --color-borda: #E3DDCF;
+  --color-divisor: #F1EDE3;
+  --color-whatsapp: #25A55F;
 
-.dark {
-  --background: oklch(0.11 0.01 250);
-  --foreground: oklch(0.98 0.005 240);
-  --card: oklch(0.15 0.015 250);
-  --card-foreground: oklch(0.98 0.005 240);
-  --popover: oklch(0.15 0.015 250);
-  --popover-foreground: oklch(0.98 0.005 240);
-  --primary: oklch(0.6 0.2 250);
-  --primary-foreground: oklch(0.1 0 0);
-  --secondary: oklch(0.2 0.02 250);
-  --secondary-foreground: oklch(0.95 0 0);
-  --muted: oklch(0.18 0.015 250);
-  --muted-foreground: oklch(0.65 0.02 240);
-  --accent: oklch(0.22 0.025 250);
-  --accent-foreground: oklch(0.98 0 0);
-  --destructive: oklch(0.5 0.2 25);
-  --border: oklch(0.24 0.02 250);
-  --input: oklch(0.24 0.02 250);
-  --ring: oklch(0.6 0.2 250);
-  --radius: 1rem;
+  /* tokens usados pelos blocos de "Detalhes técnicos" (mesma paleta) */
+  --color-paper: #F5F2EA;
+  --color-surface: #FFFFFF;
+  --color-surface-2: #F3F0E7;
+  --color-line: #E3DDCF;
+  --color-line-strong: #D6CFBE;
+  --color-ink: #14231A;
+  --color-ink-muted: #4A5A50;
+  --color-ink-faint: #4A5A50;
+  --color-brand: #2E7D4A;
+  --color-brand-strong: #1F5A34;
+  --color-brand-soft: #E3F2E1;
+  --color-frost: #3E6EA8;
+  --color-frost-soft: #EAF2FB;
+  --color-frost-ink: #2F5A92;
+  --color-drought: #9A6A12;
+  --color-drought-soft: #FFF4DC;
+  --color-drought-ink: #7A520F;
+  --color-low: #2E7D4A;
+  --color-low-soft: #DDF0DC;
+  --color-mid: #7A520F;
+  --color-mid-soft: #FBEBC8;
+  --color-mid-line: #F2C46A;
+  --color-high: #9A3D0B;
+  --color-high-soft: #FBDCCB;
+  --color-high-strong: #B4480E;
+  --color-soy: #2E7D4A;
+  --color-corn: #F2C94C;
+  --color-wheat: #C9A23A;
 }
 
 body {
   font-feature-settings: "cv02", "cv03", "cv04", "cv11";
-  letter-spacing: -0.01em;
 }
 
-h1, h2, h3, h4 {
-  font-family: var(--font-heading), var(--font-sans), sans-serif;
-  letter-spacing: -0.025em;
+h1, h2, h3 { letter-spacing: -0.02em; }
+
+@keyframes wh-fly { from { transform: translateX(-40px); } to { transform: translateX(420px); } }
+@keyframes wh-tw { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+@keyframes wh-ring { from { stroke-dashoffset: var(--wh-len, 196); } to { stroke-dashoffset: 0; } }
+@keyframes wh-bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+@keyframes wh-bar { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes wh-rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@keyframes wh-sheet { from { transform: translateY(100%); } to { transform: none; } }
+.wh-fly { animation: wh-fly 14s linear infinite; }
+.wh-tw { animation: wh-tw 3s ease-in-out infinite; }
+.wh-ring { animation: wh-ring 1.4s cubic-bezier(.2,.8,.2,1) both .2s; }
+.wh-bob { animation: wh-bob 3s ease-in-out infinite; }
+.wh-bar { transform-origin: 50% 100%; animation: wh-bar .9s cubic-bezier(.2,.8,.2,1) both; }
+.wh-in { animation: wh-rise .5s ease-out both; }
+.wh-sheet { animation: wh-sheet .25s ease-out both; }
+/* No computador a folha vira janela no meio da tela: aparece sem subir do rodapé. */
+@keyframes wh-pop { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@media (min-width: 64rem) { .wh-sheet { animation-name: wh-pop; } }
+
+/* Régua de datas: trilho transparente sobre a faixa colorida, bolinha grande para o dedo. */
+.wh-range { appearance: none; -webkit-appearance: none; background: transparent; margin: 0; cursor: pointer; }
+.wh-range::-webkit-slider-runnable-track { height: 44px; background: transparent; }
+.wh-range::-moz-range-track { height: 44px; background: transparent; }
+.wh-range::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 28px; height: 28px; margin-top: 8px; border-radius: 50%;
+  background: #FFFFFF; border: 4px solid #14231A; box-shadow: 0 2px 6px rgba(20,35,26,.3);
+}
+.wh-range::-moz-range-thumb {
+  width: 20px; height: 20px; border-radius: 50%; background: #FFFFFF; border: 4px solid #14231A; box-shadow: 0 2px 6px rgba(20,35,26,.3);
+}
+
+.wh-scroll { scrollbar-width: none; }
+.wh-scroll::-webkit-scrollbar { display: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-lavoura);
+  outline-offset: 2px;
+}
+
+/* Relatório da aba Safra: ao imprimir (ou salvar em PDF) sai só o #relatorio. */
+@media print {
+  body * { visibility: hidden !important; }
+  #relatorio, #relatorio * { visibility: visible !important; }
+  #relatorio { position: absolute; left: 0; top: 0; width: 100%; box-shadow: none !important; animation: none !important; }
 }

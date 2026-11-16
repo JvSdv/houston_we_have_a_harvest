@@ -1,0 +1,46 @@
+VIDEO (horizontal, ~72 s, inglês, legendas em inglês). O que o espectador vê e ouve, na ordem.
+
+0:00–0:05
+Vê: céu escuro com estrelas. Um satélite desenha uma linha tracejada até um círculo com lavoura verde e um broto nascendo.
+Texto: "One date. Two harvests."
+Voz: "In Brazil, one planting date decides two harvests."
+
+0:05–0:15
+Vê: um calendário de setembro a agosto. Uma barra verde "Soybean" (plantio 20 de outubro, colheita 17 de fevereiro). Depois uma barra dourada "Corn" (plantio 22 de fevereiro). Uma caixa destaca a floração do milho (18 de abril a 2 de junho). Uma barra azul "Frost season" (maio a agosto). Uma coluna laranja marca onde a floração encontra a geada.
+Texto: "Soy first. Corn second." e "Flowering meets frost. That is the risk."
+Voz: "Farmers plant soybeans, then second-crop corn. The soybean date decides when the corn flowers, and flowering is when the corn is most sensitive to frost and drought. In 2026, both hit fields in more than one state."
+
+0:15–0:24
+Vê: uma barra com "111 Mt second crop" dentro de "143 Mt all corn". Um número grande sobe até 78%. Fonte pequena: Conab, safra 2025/26, levantamento de agosto de 2026; 78% é cálculo próprio.
+Texto: "78% of Brazil's corn is second-crop"
+Voz: "Second-crop corn is about three quarters of Brazil's corn. Even in a record year, frost and drought hit fields in several states. A bad date can put frost on the corn at its worst moment."
+
+0:24–0:31
+Vê: uma ilustração de lavoura sob o céu escuro, com a órbita do satélite e um broto.
+Texto: "We're from the Brazilian countryside"
+Voz: "We are a team from the countryside of Brazil. We grew up around this problem. So we built something for it."
+
+0:31–0:46
+Vê: um celular com um aplicativo. Cabeçalho escuro com cumprimento ao produtor. Município "Pato Branco". Uma fileira de datas com barras de risco. A pessoa troca de 20 de outubro para 20 de setembro e um número grande no centro muda, em "X in 10 years".
+Texto: "Move the date. See the risk."
+Voz: "Pick your town and a soybean date. The answer comes first: in how many of the last forty-five seasons did frost or drought reach your corn? It is history, not a forecast."
+
+0:46–0:52
+Vê: um personagem-broto verde sobe na tela com um balão: plantar em 20 de setembro reduz a geada, mas soja cedo pega mais seca; veja os dois antes de decidir.
+Texto: "See both before you decide."
+Voz: "And it never hides the trade-off. An earlier date can cut frost but meet more drought."
+
+0:52–0:58
+Vê: três cartões de opções de plantio depois da soja, cada um com selos de geada, solo e renda (bom, atenção, ruim). Botões "Income", "Soil", "Both".
+Texto: "Three rotations. Your priorities."
+Voz: "Then it compares three rotations, ranked by what matters to you."
+
+0:58–1:08
+Vê: quatro cartões escuros: "NASA POWER" (clima diário), "NASA SRTM 30 m" (relevo), "NOAA RONI" (índice El Niño/La Niña), "Open-Meteo" (previsão de 16 dias). Uma pílula verde: "Runs in your browser, about 2 seconds".
+Texto: "NASA POWER, 1981–2026"
+Voz: "Under the hood: NASA POWER daily data for minimum temperature, rain and soil wetness. SRTM relief. NOAA's El Niño index. Everything runs in the browser, in about two seconds. The forecast only checks the planting week."
+
+1:08–1:16
+Vê: de volta ao céu escuro. O logo grande (círculo com lavoura, broto e satélite na órbita), o nome "weharvest", o endereço do site.
+Texto: "Not a forecast. A decision aid."
+Voz: "It's not a forecast. It's history, to help farmers choose. Try it at houston-we-have-a-harvest dot vercel dot app."

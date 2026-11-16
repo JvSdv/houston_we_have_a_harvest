@@ -1,0 +1,26 @@
+VÍDEO DE 30 s (horizontal, inglês, legendas em inglês queimadas na imagem, música instrumental baixa ao fundo). O que o espectador vê e ouve, na ordem. Ele será enviado a um concurso de tecnologia de uma agência espacial; os jurados veem muitos vídeos e não conhecem o produto.
+
+0:00–0:03,5
+Vê: fundo escuro. Texto grande: "One wrong date." Aparecem barras num calendário de setembro a agosto: uma verde "Soybean", uma dourada "Corn", uma caixa branca em volta de um trecho da barra do milho, uma barra azul "Frost" e uma coluna alaranjada que cruza as barras, com o texto "Flowering meets frost."
+Voz e legenda: "One wrong planting date can put frost on your corn."
+
+0:03,5–9
+Vê: texto grande "Farmers have to guess." Uma barra verde enche até 78% e um número "78%" sobe. Abaixo: "111 Mt second crop" e "143 Mt all corn". Ao lado: "of Brazil's corn is second-crop". Fonte pequena: "Source: Conab 2025/26 · 78% is our own calculation".
+Voz e legenda: "Second-crop corn is about three quarters of Brazil's corn, and farmers have to guess."
+
+0:09–14
+Vê: título "A decision aid". Ao centro, um logo circular com um broto verde, uma lavoura e um satélite numa órbita tracejada. À esquerda um cartão "NASA data · 45 seasons · since 1981"; à direita "Weather forecast · Next 16 days". Linhas tracejadas ligam os cartões ao logo. Embaixo: "tells you when to plant".
+Voz e legenda: "weharvest is a decision aid, built on NASA data and the weather forecast."
+
+0:14–24
+Vê: um celular mostrando um aplicativo, à esquerda. À direita, cartões brancos que aparecem com uma linha ligando ao ponto da tela:
+- uma lista de cidades; cartão "Pick your town · Pato Branco, Paraná";
+- um seletor de data; cartão "Pick the soybean date · Oct 20";
+- a tela de resposta com um anel e "4/10 years with frost"; cartão grande "4 / 10 years with frost on the corn" com selo laranja "High risk"; outro cartão "45 seasons of NASA satellite data since 1981";
+- a mesma tela com outra data (Sep 20), cartão "Plant on Sep 20 instead · 1 / 10" com selo amarelo "Medium risk";
+- uma tela de previsão do tempo com 7 dias e chuva; cartão "Can I plant this week? · 16-day weather forecast"; e um cartão "Broto's tip · Plant on Sep 15 and frost drops below 1 in 10" ao lado de um personagem-broto verde.
+Voz e legenda: "Pick your town and a soybean date." depois "October 20th: frost in four years of ten." depois "September 20th: one."
+
+0:24–29,3
+Vê: durante a fala continua a tela da previsão e da dica; depois, uma cartela escura: "NASA Space Apps Challenge 2026 · Challenge: Field Shift: Adapting Farms with NASA Data", "Team [nome do time]", "From the Brazilian countryside.", quatro círculos com foto e o nome de cada integrante, e o endereço "houston-we-have-a-harvest.vercel.app".
+Voz e legenda: "Not a forecast. Help to choose the day." depois "From the Brazilian countryside."
